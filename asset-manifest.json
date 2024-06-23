@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/interview-to-do-list/static/css/main.3db52384.css",
-    "main.js": "/interview-to-do-list/static/js/main.00f7441b.js",
+    "main.js": "/interview-to-do-list/static/js/main.0a99aa31.js",
     "static/js/453.17efde30.chunk.js": "/interview-to-do-list/static/js/453.17efde30.chunk.js",
     "static/media/img-1.jpg": "/interview-to-do-list/static/media/img-1.9d359b3e24d0881379a1.jpg",
     "static/media/logo.svg": "/interview-to-do-list/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/interview-to-do-list/index.html",
     "main.3db52384.css.map": "/interview-to-do-list/static/css/main.3db52384.css.map",
-    "main.00f7441b.js.map": "/interview-to-do-list/static/js/main.00f7441b.js.map",
+    "main.0a99aa31.js.map": "/interview-to-do-list/static/js/main.0a99aa31.js.map",
     "453.17efde30.chunk.js.map": "/interview-to-do-list/static/js/453.17efde30.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3db52384.css",
-    "static/js/main.00f7441b.js"
+    "static/js/main.0a99aa31.js"
   ]
 }
