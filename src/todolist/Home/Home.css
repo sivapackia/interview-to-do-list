@@ -1,0 +1,16 @@
+.todo{
+background-image:url("../Images/img-1.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: inherit;
+/* box-shadow: 10px 10px 50px 10px black inset; */
+}
+
+::placeholder{
+    background-color: transparent;
+    color: white;
+}
+
+.Input:focus{
+    outline: none;
+}
